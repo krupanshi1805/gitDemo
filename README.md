@@ -1,4 +1,4 @@
 # gitDemo
 This is my Git Demo.
 <br>
-The is my Git Demo.......
+This is My First Demo Project.
